@@ -41,3 +41,28 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+.svn/*
+Backup/zTools.sln
+Backup/zTools.v11.suo
+FFMpegDecoder.zip
+bin/*
+Debug/*
+*.pdb
+*.ilk
+*.ipch
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.log
+*.obj
+*.lastbuildstate
+*.tlog
+*.idb
+*.ncb
+*.htm
+*.dep
+trunk/zTools/Debug/zTools.exe.embed.manifest
+trunk/zTools/Debug/zTools.exe.embed.manifest.res
+trunk/zTools/Debug/zTools.exe.intermediate.manifest
